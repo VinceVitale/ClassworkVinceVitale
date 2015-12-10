@@ -5,11 +5,11 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassworkVinceVitale", "ClassworkVinceVitale\ClassworkVinceVitale.csproj", "{D614B8BF-300F-4DF2-B7D6-BD995969AFBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11FractionDemo", "..\..\..\..\Desktop\cw\Ch9Arrays,Methods,ClassesObjects,Looping,MakingDecisions,AdvancedMethodConcepts\11FractionDemo\11FractionDemo.csproj", "{47EB7D1A-75C9-476B-946E-5B1E895012DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6ShapesDemo", "6ShapesDemo\6ShapesDemo.csproj", "{90B6A29A-672A-41A7-ACA6-7E8EDC259622}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6ShapesDemo", "..\..\..\..\Desktop\cw\Ch10Inheritance,ClassesObjects,Methods\6ShapesDemo\6ShapesDemo.csproj", "{90B6A29A-672A-41A7-ACA6-7E8EDC259622}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7HighScore", "7HighScore\7HighScore.csproj", "{56F0E645-E718-4715-BE87-3E4BA0294752}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7HighScore", "..\..\..\..\Desktop\cw\CH14FilesStreams,ExceptionHandling,Looping,MakingDecisions\7HighScore\7HighScore.csproj", "{56F0E645-E718-4715-BE87-3E4BA0294752}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11FractionDemo", "11FractionDemo\11FractionDemo.csproj", "{47EB7D1A-75C9-476B-946E-5B1E895012DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,10 +21,6 @@ Global
 		{D614B8BF-300F-4DF2-B7D6-BD995969AFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D614B8BF-300F-4DF2-B7D6-BD995969AFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D614B8BF-300F-4DF2-B7D6-BD995969AFBA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{47EB7D1A-75C9-476B-946E-5B1E895012DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{47EB7D1A-75C9-476B-946E-5B1E895012DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{47EB7D1A-75C9-476B-946E-5B1E895012DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{47EB7D1A-75C9-476B-946E-5B1E895012DB}.Release|Any CPU.Build.0 = Release|Any CPU
 		{90B6A29A-672A-41A7-ACA6-7E8EDC259622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{90B6A29A-672A-41A7-ACA6-7E8EDC259622}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90B6A29A-672A-41A7-ACA6-7E8EDC259622}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +29,10 @@ Global
 		{56F0E645-E718-4715-BE87-3E4BA0294752}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56F0E645-E718-4715-BE87-3E4BA0294752}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56F0E645-E718-4715-BE87-3E4BA0294752}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47EB7D1A-75C9-476B-946E-5B1E895012DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47EB7D1A-75C9-476B-946E-5B1E895012DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47EB7D1A-75C9-476B-946E-5B1E895012DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47EB7D1A-75C9-476B-946E-5B1E895012DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
